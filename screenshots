@@ -1,3 +1,0 @@
-git rm -r screenshots/
-git commit -m "Delete screenshots directory"
-git push
