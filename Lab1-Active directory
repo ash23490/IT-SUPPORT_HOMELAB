@@ -1,1 +1,43 @@
+Built a virtualized Windows Server Active Directory environment using ORACLE VirtualBox to replicate a real-world IT support and system administration tasks.
 
+The lab includes:
+
+Domain Controller setup
+
+DNS configuration
+
+Active Directory user management
+
+Domain-joined Windows 10 client
+
+Helpdesk troubleshooting simulations
+
+Secure channel and authentication troubleshooting
+
+Technologies Used
+VirtualBox
+
+Windows Server 2019
+
+Windows 10
+
+Active Directory Domain Services (AD DS)
+
+DNS
+
+PowerShell
+
+Command Prompt
+
+Lab 1 - Active Directory Infrastructure
+Installed and configured Windows Server 2019
+
+Promoted server to Domain Controller
+
+Created company.local domain
+
+Configured DNS services
+
+Created organizational units and domain users
+
+Joined Windows 10 client machine to domain
